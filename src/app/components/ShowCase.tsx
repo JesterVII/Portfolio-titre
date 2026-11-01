@@ -1,7 +1,7 @@
 //icons
 import {FaHtml5, FaCss3Alt, FaJsSquare, FaPhp, FaNodeJs, FaBootstrap} from "react-icons/fa";
 import {DiMysql} from "react-icons/di";
-import {SiTailwindcss, SiNextdotjs, SiGnubash, SiShadcnui, SiWebsocket, SiHtml5, SiGo, SiNuxtdotjs, SiMongodb, SiVuedotjs, SiJavascript, SiCss3} from "react-icons/si";
+import {SiTailwindcss, SiNextdotjs, SiGnubash, SiShadcnui, SiHtml5, SiGo, SiNuxtdotjs, SiMongodb, SiVuedotjs, SiJavascript, SiCss3} from "react-icons/si";
 //components/ui
 import { Section } from "./Section";
 import { Card, CardDescription, CardTitle } from "@/components/ui/card";
